@@ -1,4 +1,4 @@
-# Annotation tool for 2D annotation of the rendered images from ShapeNet
+# Annotation tool for 3D Model annotation from ShapeNet
 
 
 Steps to be followed :
